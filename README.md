@@ -1,4 +1,4 @@
-# arkanhockey
+# ArkanHockey - (AH)
 Arkanhockey BETA file (only index file) - the game and the platform is in beta and I will definitely rewrite to clean up and fix a number of known issues hence the code might change completely from one day to another.
 
 ArkanHockey is a top-down game built using a platform I'm developing that I plan to call "Arkan".
