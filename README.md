@@ -6,7 +6,6 @@ ArkanHockey is a top-down game developed using a platform I'm developing that I 
 >The platform will allow easy implementation of game logics, sprites animation, physics, a simple input control, both by touch and by keyboard / mouse. Cross compatible between different devices and different browsers aiming to run smoothly on mobile devices.
 
 * No external libraries
-
 * Garbage collector friendly (aim to reduce GC as much as possible)
 
 * Object pooling - Array pooling
